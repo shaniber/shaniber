@@ -1,4 +1,10 @@
-### Hi there 👋
+### shaniber's README.md
+
+Hi There! Please feel free to look around my public repos. I use GitHub for experimentation, and to explore hobby projects. 
+
+Some of my professional interests include Bash scripting and system administration. Personally and recreationally, I like cooking, Minecraft, and role playing games like D&D and Pathfinder. Behind the scenes, I'm exploring personal dashboarding, tasklist management, and perl programming. 
+
+Have questions? Hit me up shane «at» doucette «dot» org.
 
 <!--
 **shaniber/shaniber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
