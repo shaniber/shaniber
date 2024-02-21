@@ -1,6 +1,6 @@
 ### shaniber's README.md
 
-Hi There! My name is Shane Doucette (he/him). I'm an IT Specialist, System Administrator, and computer tinkerer, and I like tacos.
+Hi there! My name is Shane Doucette (he/him). I'm an IT Specialist, System Administrator, and computer tinkerer, and I like tacos.
 
 Please feel free to look around my public repos. I use GitHub for experimentation, documentation, and to explore hobby projects. 
 
